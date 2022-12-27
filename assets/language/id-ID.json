@@ -1,0 +1,36 @@
+
+{
+    "china":"Bahana Cina",
+    "indonesia":"Indonesia",
+    "detail":"Lihat bahasa detail",
+  "language":"Pilih Bahasa",
+    "english":"Bahasa Inggris",
+    "arabic":" Bahasa Arab",
+    "titleCard":"Ganti Bahasa?",
+    "descCard":"Yakin ingin mengubah setelan bahasa ini?",
+    "home":"Beranda",
+
+    "FormAddScreen":"Tambah Data",
+    "updateScreen":"Mengubah Data",
+    "title":"Judul",
+    "userId":"Nilai Pengguna",
+    "id":"ID",
+    "updateSuccess":"Pembaruan Berhasil",
+    "updateFailed":"Pembaruan Gagal",
+    "update":"Pembaruan",
+    "tolongIsi":"Tolong isi semua field",
+    "ops":"Ops, Error. Ada masalah pada backend",
+    "titleRequired":"Judul di butuhkan",
+    "userID":"Pengguna ID",
+    "userID2":"Pengguna di butuhkan",
+    "id2":"ID dibutuhkan",
+    "addData":"Tambah Data",
+    "hapusData":"Hapus Data Ini?",
+    "jikaHapus":"Jika menghapus berarti data akan hilang sepenuhnya",
+    "delete1":"Delete Berhasil",
+    "delete2":"Delete Gagal",
+    "themeChange":"Ubah Tema"
+
+
+
+    }

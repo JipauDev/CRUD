@@ -1,0 +1,41 @@
+
+{
+
+    "china":"中国",
+    "india":"印度",
+    "indonesia":"印度尼西亚",
+    "brazil":"巴西",
+    "detail":"查看详细语言",
+    "title":"标题",
+    "lorem":"Lorem Ipsum 只是印刷和排版行业的虚拟文本。 Lorem Ipsum 一直是这个行业",
+    "lorem2":"它不仅存活了五个世纪，而且还经历了电子排版的飞跃，基本保持不变。 它在 1960 年代随着包含 Lorem Ipsum 段落的 Letraset 表的发布而普及",
+    "language":"选择语言",
+    "english":"英语",
+    "arabic":"阿拉伯",
+    "titleCard":"改变语言？",
+    "descCard":"您确定要更改此语言设置吗？",
+    "home":"家园",
+
+    "FormAddScreen":"添加数据",
+    "updateScreen":"更改数据",
+    "userId":"用户价值",
+    "id":"ID",
+    "updateSuccess":"更新成功",
+    "updateFailed":"更新失败",
+    "update":"更新",
+    "tolongIsi":"请填写所有字段",
+    "ops":"糟糕，错误。 后台有问题",
+    "titleRequired":"标题是必需的",
+    "userID":"用户身份",
+    "userID2":"用户需要",
+    "id2":"需要身份证",
+    "addData":"添加数据",
+    "hapusData":"删除此数据？",
+    "jikaHapus":"如果删除意味着数据将完全丢失",
+    "delete1":"删除成功",
+    "delete2":"删除失败",
+    "themeChange":"改变主题"
+    
+    
+
+}

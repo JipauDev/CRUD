@@ -1,0 +1,35 @@
+{
+"language":"Select Language",
+"english":"English",
+"arabic":"Arabic",
+"titleCard":"Change Language?",
+"descCard":"Are you sure you want to change this language setting?",
+"china":"China",
+"indonesia":"Indonesia",
+"brazil":"Brazil",
+"home":"Home",
+
+"FormAddScreen":"Create Data",
+"updateScreen":"Change Data",
+"title":"Title",
+"userId":"User ID",
+"id":"ID",
+"updateSuccess":"Update Success",
+"updateFailed":"Update Gagal",
+"update":"Update",
+"tolongIsi":"Please input field",
+"ops":"Ops, Error. have problem on server",
+"titleRequired":"Title Required",
+"userID":"User ID",
+"userID2":"User ID Required",
+"id2":"ID Required",
+"addData":"Create Data",
+"hapusData":"Delete this Data?",
+"jikaHapus":"If delete this data will bee permanent",
+"delete1":"Delete Success",
+"delete2":"Delete Failed",
+"themeChange":"Theme Change"
+
+
+
+}
